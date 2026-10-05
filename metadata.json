@@ -1,0 +1,6 @@
+{
+  "name": "SPlitZie - A friends app!",
+  "description": "Futuristic AI-powered bill splitting and dinner settlement platform for friends and college tech fests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
